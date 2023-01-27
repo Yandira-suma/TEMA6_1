@@ -18,5 +18,6 @@ def caracteristica(lista):
 
 
 d = Coche("negro", 4, 5, 250, 400)
-lista_vehiculos = [ d ]
+e = Coche("morado", 4, 3, 150, 800)
+lista_vehiculos = [ d ,e]
 caracteristica(lista_vehiculos)
